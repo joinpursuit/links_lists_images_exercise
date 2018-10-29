@@ -20,7 +20,7 @@ Include the following:
 2. A description. `<p>`
 3. An unordered list of ingredients. `<ul>`
 4. An ordered list of directions. `<ol>`
-5. Add a link to a similar recipe somewhere online. 
+5. Add a link to a similar recipe somewhere online.
 
 ### Bonus
 
@@ -44,6 +44,8 @@ Include the following:
 Create an HTML document image.html and embed the following image in an HTML document:
 
 ![dinosaur](assets/image.jpg)
+
+https://github.com/joinpursuit/links_lists_images_exercise/raw/master/assets/image.jpg
 
 Also, do the following:
 
