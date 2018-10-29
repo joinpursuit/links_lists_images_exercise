@@ -20,7 +20,7 @@ Include the following:
 2. A description. `<p>`
 3. An unordered list of ingredients. `<ul>`
 4. An ordered list of directions. `<ol>`
-5. Add a link to a similar recipe somewhere online. 
+5. Add a link to a similar recipe somewhere online.
 
 ### Bonus
 
